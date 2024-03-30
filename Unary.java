@@ -16,7 +16,7 @@ class Unary{
 	System.out.println("Pre Increment");
 	System.out.println("a: "+a+"   "+"d: "+d);
 
-	//pre decrement
+	/ff
 	 int e= --a;
 	System.out.println("Pre Decrement");
 	System.out.println("a: "+a+"   "+"e: "+e);
